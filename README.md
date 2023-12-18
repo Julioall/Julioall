@@ -2,8 +2,8 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 - 📕 **Formação:** Análise e Desenvolvimento de Sistemas - Centro Universitário de Goiás - UNIGOIÁS
-- 🔭 **Trabalho:** Atualmente estou trabalhando na CTRL+Play Escola de Programação e Robótica.
-- 🌱 **Estágio:** Estou aprendendo C# e SAPUI5 no meu estagio na Invent Software.
+- 🔭 **Trabalho:** Instrutor de Programação e Robótica na CTRL+Play - Escola de Programação e Robótica.
+- 🌱 **Estágio:** Desenvolvedor C# na Invent Software.
 - 📫 **Contato:** Como entrar em contato comigo: julio.all@outlook.com
 - ⚡ **Curiosidade:** Python foi a pimeira linguagem que aprendi.
   
