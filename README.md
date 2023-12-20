@@ -10,11 +10,13 @@
  ##
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="julio-HTML" height="30" width="40" src="html.svg">
+  <img align="center" alt="julio-CSS" height="30" width="40" src="css.svg">
+    <img align="center" alt="julio-Js" height="30" width="40" src="javascript.svg">
+  <img align="center" alt="julio-Python" height="30" width="40" src="python.svg">
+  <img align="center" alt="julio-Csharp" height="40" width="50" src="csharp.svg">
+  <img align="center" alt="julio-Csharp" height="40" width="50" src="java.svg">
+  <img align="center" alt="julio-Csharp" height="40" width="50" src="mysql.svg">
 </div>
 
   ##
