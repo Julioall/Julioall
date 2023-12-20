@@ -14,9 +14,9 @@
   <img align="center" alt="julio-CSS" height="30" width="40" src="css.svg">
     <img align="center" alt="julio-Js" height="30" width="40" src="javascript.svg">
   <img align="center" alt="julio-Python" height="30" width="40" src="python.svg">
-  <img align="center" alt="julio-Csharp" height="40" width="50" src="csharp.svg">
-  <img align="center" alt="julio-Csharp" height="40" width="50" src="java.svg">
-  <img align="center" alt="julio-Csharp" height="40" width="50" src="mysql.svg">
+  <img align="center" alt="julio-Csharp" height="30" width="40" src="csharp.svg">
+  <img align="center" alt="julio-Csharp" height="30" width="40" src="java-4.svg">
+  <img align="center" alt="julio-Csharp" height="30" width="40" src="mysql.svg">
 </div>
 
   ##
