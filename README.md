@@ -5,8 +5,8 @@
 - 📕 **Formação:** Análise e Desenvolvimento de Sistemas - Centro Universitário de Goiás - UNIGOIÁS
 - 🔭 **Trabalho:** Instrutor de Programação e Robótica na CTRL+Play - Escola de Programação e Robótica.
 - 🌱 **Estágio:** Desenvolvedor C# na Invent Software.
-- 📫 **Contato:** Como entrar em contato comigo: julio.all@outlook.com
-- ⚡ **Curiosidade:** Python foi a pimeira linguagem que aprendi.
+- 📫 **Contato:** julio.all@outlook.com
+- ⚡ **Curiosidade:** Python foi a primeira linguagem que aprendi.
   
  ##
  
