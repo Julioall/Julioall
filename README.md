@@ -11,14 +11,14 @@
  ##
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="julio-HTML" height="30" width="40" src="html.svg">
-  <img align="center" alt="julio-CSS" height="30" width="40" src="css.svg">
-    <img align="center" alt="julio-Js" height="30" width="40" src="javascript.svg">
-  <img align="center" alt="julio-Python" height="30" width="40" src="python.svg">
-  <img align="center" alt="julio-Csharp" height="30" width="40" src="csharp.svg">
-  <img align="center" alt="julio-java" height="40" width="50" src="java-4.svg">
-  <img align="center" alt="julio-mysql" height="40" width="50" src="mysql.svg">
-  <img align="center" alt="julio-sqlserve" height="40" width="50" src="sql-serve.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="html.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="css.svg">
+    <img align="center" alt="Js" height="30" width="40" src="javascript.svg">
+  <img align="center" alt="Python" height="30" width="40" src="python.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="csharp.svg">
+  <img align="center" alt="java" height="40" width="50" src="java-4.svg">
+  <img align="center" alt="mysql" height="40" width="50" src="mysql.svg">
+  <img align="center" alt="sqlserve" height="40" width="50" src="sql-serve.png">
 </div>
 
   ##
