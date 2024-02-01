@@ -18,7 +18,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="csharp.svg">
   <img align="center" alt="java" height="40" width="50" src="java-4.svg">
   <img align="center" alt="mysql" height="40" width="50" src="mysql.svg">
-  <img align="center" alt="sqlserve" height="40" width="50" src="sql-server.png">
+  <img align="center" alt="sqlserve" height="50" width="60" src="sql-server.png">
 </div>
 
   ##
