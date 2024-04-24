@@ -1,14 +1,12 @@
 # Olá, eu sou o Julio!
 
-
-## Bem vindo ao meu perfil GitHub 👋
 - 📕 **Formação:** Análise e Desenvolvimento de Sistemas - Centro Universitário de Goiás - UNIGOIÁS
 - 🔭 **Trabalho:** Instrutor de Programação e Robótica na CTRL+Play - Escola de Programação e Robótica.
 - 🔭 **Trabalho:** Técnico de Desenvolvimento de Software na Invent Software.
-- 📫 **Contato:** julio.all@outlook.com
+- 📫 **E-mail:** julio.all@outlook.com
+- 📱 **WhatsApp:** [+5562998021488](https://wa.me/qr/R2JWZR5YSPS4D1)
 - ⚡ **Curiosidade:** Python foi a primeira linguagem que aprendi.
-  
- ##
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="html.svg">
