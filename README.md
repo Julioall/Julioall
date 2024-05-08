@@ -1,7 +1,6 @@
 # Olá, eu sou o Julio!
 
 - 📕 **Formação:** Análise e Desenvolvimento de Sistemas - <a href="https://unigoias.com.br/" target="_blank">Centro Universitário de Goiás - UNIGOIÁS</a>
-- 🔭 **Trabalho:** Instrutor de Programação e Robótica na <a href="https://ctrlplay.com.br/unidades/goiania-go/" target="_blank">CTRL+Play - Escola de Programação e Robótica.</a>
 - 🔭 **Trabalho:** Técnico de Desenvolvimento de Software na <a href="https://inventsoftware.com.br/" target="_blank">Invent Software.</a>
 - 📫 **E-mail:** julio.all@outlook.com
 - ⚡ **Curiosidade:** Python foi a primeira linguagem que aprendi.
