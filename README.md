@@ -1,7 +1,7 @@
 # Olá, eu sou o Julio!
 
 - 📕 **Formação:** Análise e Desenvolvimento de Sistemas - <a href="https://unigoias.com.br/" target="_blank">Centro Universitário de Goiás - UNIGOIÁS</a>
-- 🔭 **Trabalho:** Técnico de Desenvolvimento de Software na <a href="https://inventsoftware.com.br/" target="_blank">Invent Software.</a>
+- 🔭 **Trabalho:** Programador de Sistemas de Informação na <a href="https://inventsoftware.com.br/" target="_blank">Invent Software.</a>
 - 📫 **E-mail:** julio.all@outlook.com
 - ⚡ **Curiosidade:** Python foi a primeira linguagem que aprendi.
 
@@ -30,6 +30,6 @@
 
 <div>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioall&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julioall&layout=compact&theme=dark" />
   </picture>
 </div> 
