@@ -28,8 +28,3 @@
 
 ##
 
-<div>
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julioall&layout=compact&theme=dark" />
-  </picture>
-</div> 
