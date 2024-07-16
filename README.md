@@ -28,4 +28,4 @@
 
 ##
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=julioall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=julioall)](https://github.com/anuraghazra/github-readme-stats)
