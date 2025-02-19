@@ -2,19 +2,18 @@
 
 💻 **Cargo:** Analista de Sistemas I na [Invent Software](https://inventsoftware.com.br/)  
 📕 **Formação:** Análise e Desenvolvimento de Sistemas – [Centro Universitário de Goiás (UNIGOIÁS)](https://unigoias.com.br/)  
-📧 **Contato:** [julio.all@outlook.com](mailto:julio.all@outlook.com)  
 🐍 **Curiosidade:** Minha jornada na programação começou com Python!  
+📧 **Contato:** [julio.all@outlook.com](mailto:julio.all@outlook.com)  
+
+<div> 
+  <a href="https://instagram.com/jullio_all" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/julioall" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/julioall/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://wa.me/qr/R2JWZR5YSPS4D1" target="_blank"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
 ## 🚀 Tecnologias e Ferramentas  
 🔹 **Tech Stack:** .NET | Angular | C# | TypeScript | RavenDB  
-
-## 🎮 Interesses  
-- Desenvolvimento de jogos (Godot, Unity, GameMaker, Roblox)  
-- Exploração de novas tecnologias  
-- Aprimoramento contínuo e crescimento profissional  
-
-💡 Vamos trocar conhecimento! 🚀  
-
 
  
 <div style="display: inline_block"><br>
@@ -28,16 +27,17 @@
  <img align="center" alt="ravendb"  width="70" src="ravendb.svg">
 </div>
 
-  ##
- 
-<div> 
-  <a href="https://instagram.com/jullio_all" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/julioall" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/julioall/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://wa.me/qr/R2JWZR5YSPS4D1" target="_blank"><img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+## 📌 Principais Projetos  
+🚧 *Seção em construção... em breve mais projetos!* 🚧  
 
-##
+## 🎮 Interesses  
+- Desenvolvimento de jogos (Godot, Unity, GameMaker, Roblox)  
+- Exploração de novas tecnologias  
+- Aprimoramento contínuo e crescimento profissional  
+
+💡 Vamos trocar conhecimento! 🚀  
+
+## 📊 Estatísticas  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioall&layout=compact&theme=dark&langs_count=6&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 
