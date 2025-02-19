@@ -21,12 +21,12 @@
   <img align="center" alt="HTML" height="30" width="40" src="html.svg">
   <img align="center" alt="CSS" height="30" width="40" src="css.svg">
   <img align="center" alt="Js" height="30" width="40" src="javascript.svg">
- <img align="center" alt="Js" height="30" width="40" src="typescript.svg">
+ <img align="center" alt="typescript" height="30" width="40" src="typescript.png">
   <img align="center" alt="Python" height="30" width="40" src="python.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="csharp.svg">
   <img align="center" alt="mysql" height="40" width="50" src="mysql.svg">
   <img align="center" alt="sqlserve" height="50" width="60" src="sql-server.png">
- <img align="center" alt="sqlserve" height="50" width="60" src="ravendb.png">
+ <img align="center" alt="ravendb" height="50" width="60" src="ravendb.png">
 </div>
 
   ##
